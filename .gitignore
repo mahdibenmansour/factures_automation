@@ -8,6 +8,7 @@ __pycache__/
 #DOCX
 *.DOCX
 *.xlsx
+*.txt
 
 # Distribution / packaging
 .Python
